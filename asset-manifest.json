@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/houseplants-app/static/css/main.a4d091a5.css",
+    "main.js": "/houseplants-app/static/js/main.a28964ea.js",
+    "static/media/greenery.jpg": "/houseplants-app/static/media/greenery.e46fff8d1cab2f269fa2.jpg",
+    "index.html": "/houseplants-app/index.html",
+    "main.a4d091a5.css.map": "/houseplants-app/static/css/main.a4d091a5.css.map",
+    "main.a28964ea.js.map": "/houseplants-app/static/js/main.a28964ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4d091a5.css",
+    "static/js/main.a28964ea.js"
+  ]
+}
